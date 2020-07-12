@@ -1,4 +1,5 @@
 ### Hi there 👋
+![image](https://github.com/rmatuk/rmatuk/blob/master/dino.gif)
 
 <!--
 **rmatuk/rmatuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
