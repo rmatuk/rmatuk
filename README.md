@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 -->
- <img src="dino.gif" width="25px">
+ <img src="dino.gif" width="95px">
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
