@@ -1,4 +1,4 @@
-### Hello, humans 👋  <img src="dino.gif" width="300px">
+### Hello, humans 👋                                                <img src="dino.gif" width="300px">
 <!--
 **rmatuk/rmatuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
