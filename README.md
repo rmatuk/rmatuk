@@ -1,12 +1,9 @@
-### Hi there 👋
+### Hello, humans 👋
 <!--
 **rmatuk/rmatuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
-
-
-This is the place where I opensource stuff and break things 😉
 
 <!--
 - 🔭 I’m currently working on ...
